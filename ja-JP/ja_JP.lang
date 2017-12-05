@@ -654,7 +654,7 @@ staxel.accessories.characters.accessories.festival.KabutoHelmet.description=
 staxel.accessories.characters.accessories.festival.KabutoHelmet.name=兜
 staxel.accessories.characters.accessories.halloween.PumpkingHat.description=
 //[Reference] 'Pumpking Hat'
-staxel.accessories.characters.accessories.halloween.PumpkingHat.name=カボチャの帽子
+staxel.accessories.characters.accessories.halloween.PumpkingHat.name=パンプキングの帽子
 staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.description=
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Pumpkin Hat'
@@ -1629,7 +1629,7 @@ staxel.item.tool.FlowerWatercan.description=
 staxel.item.tool.FlowerWatercan.name=
 staxel.item.tool.PumpkingScythe.description=
 //TODO Translate [Reference] 'Pumpking Scythe'
-staxel.item.tool.PumpkingScythe.name=
+staxel.item.tool.PumpkingScythe.name=パンプキングの鎌
 staxel.item.tool.TaikoHammer.description=
 //TODO Translate [Reference] 'Taiko Hammer'
 staxel.item.tool.TaikoHammer.name=
@@ -2216,19 +2216,19 @@ staxel.tileObject.festival.NekoShrine.description=
 staxel.tileObject.festival.NekoShrine.name=
 staxel.tileObject.festival.PumpkinCarvingStation.description=
 //TODO Translate [Reference] 'Pumpkin Carving Station'
-staxel.tileObject.festival.PumpkinCarvingStation.name=
+staxel.tileObject.festival.PumpkinCarvingStation.name=カボチャの彫刻ステーション
 staxel.tileObject.festival.PumpkingFeastBannerLeft.description=
 //TODO Translate [Reference] 'Pumpking Feast Left Banner'
-staxel.tileObject.festival.PumpkingFeastBannerLeft.name=
+staxel.tileObject.festival.PumpkingFeastBannerLeft.name=パンプキングの祭典の飾り紐 左
 staxel.tileObject.festival.PumpkingFeastBannerRight.description=
 //TODO Translate [Reference] 'Pumpking Feast Right Banner'
-staxel.tileObject.festival.PumpkingFeastBannerRight.name=
+staxel.tileObject.festival.PumpkingFeastBannerRight.name=パンプキングの祭典の飾り紐 右
 staxel.tileObject.festival.PumpkingFeastFountain.description=
 //TODO Translate [Reference] 'Pumpking Feast Fountain'
-staxel.tileObject.festival.PumpkingFeastFountain.name=
+staxel.tileObject.festival.PumpkingFeastFountain.name=パンプキングの祭典の噴水
 staxel.tileObject.festival.PumpkingVine.description=
 //TODO Translate [Reference] 'Pumpking's Vine'
-staxel.tileObject.festival.PumpkingVine.name=
+staxel.tileObject.festival.PumpkingVine.name=パンプキングのツル
 staxel.tileObject.festival.SnowdustFaireBannerLeft.description=
 //TODO Translate [Reference] 'Snowdust Faire Banner Left'
 staxel.tileObject.festival.SnowdustFaireBannerLeft.name=
@@ -2732,7 +2732,7 @@ staxel.villager.Caren.name=
 //[Reference] 'Cecile'
 staxel.villager.Cecile.name=セシル
 //TODO Translate [Reference] 'Riah?!?'
-staxel.villager.DefinitelyNotRiah.name=
+staxel.villager.DefinitelyNotRiah.name=リア？！？
 //[Reference] 'Emilia'
 staxel.villager.Emilia.name=エミリア
 //[Reference] 'Eris'
@@ -2748,9 +2748,9 @@ staxel.villager.Leif.name=レイフ
 //[Reference] 'Maximilian'
 staxel.villager.Maximilian.name=マクシミリアン
 //TODO Translate [Reference] 'Riah!'
-staxel.villager.MaybeRiah.name=
+staxel.villager.MaybeRiah.name=リア！
 //TODO Translate [Reference] 'Riah?'
-staxel.villager.NotRiah.name=
+staxel.villager.NotRiah.name=リア？
 //[Reference] 'Oscar'
 staxel.villager.Oscar.name=オスカー
 //[Reference] 'Riah'

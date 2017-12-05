@@ -1,8 +1,8 @@
 language.code=ja-JP
 language=日本語
-//TODO Translate [Reference] 'Mmya... maybe it's just the atmosphere getting to me...'
-staxel.village.character.dialogue.festival.RiahPumpkingFeast.line:10000100=
-//TODO Translate [Reference] 'But I swear I just saw my doppelganger...'
-staxel.village.character.dialogue.festival.RiahPumpkingFeast.line:10000200=
-//TODO Translate [Reference] 'Spooky... mya...'
-staxel.village.character.dialogue.festival.RiahPumpkingFeast.line:10000300=
+//[Reference] 'Mmya... maybe it's just the atmosphere getting to me...'
+staxel.village.character.dialogue.festival.RiahPumpkingFeast.line:10000100=ニャァ…きっと気のせいだよね…
+//[Reference] 'But I swear I just saw my doppelganger...'
+staxel.village.character.dialogue.festival.RiahPumpkingFeast.line:10000200=でも間違いなく、あれは自分のドッペルゲンガーだった…
+//[Reference] 'Spooky... mya...'
+staxel.village.character.dialogue.festival.RiahPumpkingFeast.line:10000300=気味が悪いニャ…

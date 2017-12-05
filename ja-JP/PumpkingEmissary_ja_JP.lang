@@ -1,236 +1,236 @@
 language.code=ja-JP
 language=日本語
-//TODO Translate [Reference] 'Myahaha!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000100=
-//TODO Translate [Reference] 'The Pumpking Feast descends upon the mortal realm once more!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000200=
-//TODO Translate [Reference] 'Each year, the great, the wise, the magnificent Pumpking gra-'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000300=
-//TODO Translate [Reference] 'Mya? ^c:1486b0;{0-r_name}^c:pop;? I think you have the wrong person...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000400=
-//TODO Translate [Reference] 'I am none other than the ^c:1486b0;Pumpking's Emissary^c:pop;!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000500=
-//TODO Translate [Reference] 'Each year, I descend to bring joy to the village!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000600=
-//TODO Translate [Reference] '...m...mya...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000700=
-//TODO Translate [Reference] 'If you use these to memorise the ^c:d03e37;recipes^c:pop;, you can create some nice treats!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000770=
-//TODO Translate [Reference] 'We could really use some help getting things together for the feast...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000780=
-//TODO Translate [Reference] 'So what can I do for you today?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10000800=
-//TODO Translate [Reference] 'Why are you here?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001000=
-//TODO Translate [Reference] 'What should I do?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001100=
-//TODO Translate [Reference] 'I have pumpkins!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001300=
-//TODO Translate [Reference] 'I have some candy!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001320=
-//TODO Translate [Reference] 'Craft me something!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001327=
-//TODO Translate [Reference] 'Nothing really...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001330=
-//TODO Translate [Reference] 'Allow me to welcome you once more to the Pumpking's Feast mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001400=
-//TODO Translate [Reference] 'For only a few days each year, the barriers between our realms wane.'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001500=
-//TODO Translate [Reference] 'In this time, we emissaries travel far and wide across the land!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001600=
-//TODO Translate [Reference] 'It's a time of celebration mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001700=
-//TODO Translate [Reference] 'We revel in the glory of the great Pumpking's favour!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001800=
-//TODO Translate [Reference] 'Participate enough and we just might make you into an honorary emissary!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10001900=
-//TODO Translate [Reference] 'You won't be able to cross between realms though...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002000=
-//TODO Translate [Reference] 'That's a right reserved for us real emissaries!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002100=
-//TODO Translate [Reference] 'It's always fun to host this feast mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002200=
-//TODO Translate [Reference] 'Some years it can be a bit more lively than others...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002300=
-//TODO Translate [Reference] 'But I really do love spending time amongst mortals mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002400=
-//TODO Translate [Reference] 'If you see a ghost wandering around...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002500=
-//TODO Translate [Reference] 'Be sure to call out to them mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002600=
-//TODO Translate [Reference] 'I think if you're persistent they might open up!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002700=
-//TODO Translate [Reference] 'How many times do you plan to bring this up mya?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002800=
-//TODO Translate [Reference] 'I've never heard of this ^c:1486b0;{0-r_name}^c:pop; person!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10002900=
-//TODO Translate [Reference] 'I'm just the Pumpking's Emissary!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003000=
-//TODO Translate [Reference] 'Was there something specific you wanted me to illuminate?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003100=
-//TODO Translate [Reference] 'How do I make candy?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003200=
-//TODO Translate [Reference] 'What if I don't have pumpkins?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003300=
-//TODO Translate [Reference] 'How do I carve pumpkins?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003400=
-//TODO Translate [Reference] 'Oooh, yes!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003500=
-//TODO Translate [Reference] 'These ^c:d03e37;pumpkins^c:pop; will be perfect mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003600=
-//TODO Translate [Reference] 'Can I take them mya?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003630=
-//TODO Translate [Reference] 'Here you go!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003650=
-//TODO Translate [Reference] 'Not right now...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003670=
-//TODO Translate [Reference] 'Mmmmya?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003700=
-//TODO Translate [Reference] 'You clearly don't have enough!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003800=
-//TODO Translate [Reference] 'I asked for five ^c:d03e37;pumpkins^c:pop; mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003850=
-//TODO Translate [Reference] 'Can't trick me mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10003900=
-//TODO Translate [Reference] 'What would you like me to craft?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10004300=
-//TODO Translate [Reference] 'What do I need again?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10004400=
-//TODO Translate [Reference] 'I want the Pumpking hat!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10004500=
-//TODO Translate [Reference] 'I want the Pumpking scythe!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10004600=
-//TODO Translate [Reference] 'Alright mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10004700=
-//TODO Translate [Reference] 'If you're after the ^c:d03e37;Pumpking Emissary head piece^c:pop;...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10004800=
-//TODO Translate [Reference] 'You'll need to bring me a ^c:d03e37;Jack O' Lantern^c:pop; mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10004900=
-//TODO Translate [Reference] 'The ^c:d03e37;Pumpking Scythe^c:pop; is a little challenging!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005000=
-//TODO Translate [Reference] 'You need to challenge the maze in the ^c:1486b0;fairgrounds^c:pop; mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005100=
-//TODO Translate [Reference] 'It's pretty sinister myahaha! It came with us from the Pumpking's realm!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005200=
-//TODO Translate [Reference] 'Bring me the ^c:d03e37;Pumpking Vine^c:pop; you find at the centre.'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005300=
-//TODO Translate [Reference] 'Oh, and a ^c:d03e37;Scythe^c:pop; too of course!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005400=
-//TODO Translate [Reference] 'Then I can make you what you need mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005500=
-//TODO Translate [Reference] 'Oooh, this will do nicely mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005600=
-//TODO Translate [Reference] 'Just give me one moment...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005700=
-//TODO Translate [Reference] 'And there you go mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005800=
-//TODO Translate [Reference] 'Remember, this doesn't make you a real Emissary of the Pumpking though!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10005900=
-//TODO Translate [Reference] 'So don't get too full of yourself mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006000=
-//TODO Translate [Reference] 'Yes! These are exactly what I needed to craft one mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006010=
-//TODO Translate [Reference] 'Let's see... I think this goes here and that goes there...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006020=
-//TODO Translate [Reference] 'Make good use of it! Remember, it's for plants only mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006030=
-//TODO Translate [Reference] 'Hmm...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006100=
-//TODO Translate [Reference] 'It doesn't look like you have a ^c:d03e37;Jack O' Lantern^c:pop; for me...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006200=
-//TODO Translate [Reference] 'Come back when you do mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006300=
-//TODO Translate [Reference] 'I can't make you a scythe if you don't bring me a ^c:d03e37;Pumpking Vine^c:pop; mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006400=
-//TODO Translate [Reference] 'You'll find one at the centre of the maze in the ^c:1486b0;festival grounds^c:pop;!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006500=
-//TODO Translate [Reference] 'Hmm, it looks like you have the ^c:d03e37;vine^c:pop;...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006600=
-//TODO Translate [Reference] 'But you need to bring me a ^c:d03e37;Scythe^c:pop; too mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006700=
-//TODO Translate [Reference] 'I gave you some ^c:d03e37;recipes^c:pop; earlier!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006800=
-//TODO Translate [Reference] 'You can follow those to craft as many treats as you like mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10006900=
-//TODO Translate [Reference] 'If you bring some to me, I can trade them in for something extra rare...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007000=
-//TODO Translate [Reference] 'That's right mya! ^c:d03e37;Magic Water^c:pop;!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007100=
-//TODO Translate [Reference] 'As a special treat, I have some ^c:d03e37;recipes^c:pop; to get you started with the festive spirit!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:1000720=
-//TODO Translate [Reference] 'You really don't see the stuff very often but the Pumpking is pretty generous!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007200=
-//TODO Translate [Reference] 'I'll trade you one for either ^c:d03e37;3 Toffee Apples^c:pop; or ^c:d03e37;2 Candy Corn^c:pop;!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007300=
-//TODO Translate [Reference] 'Hmm, let me guess mya...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007400=
-//TODO Translate [Reference] ''Isn't it a bit late for me to grow ^c:d03e37;pumpkins^c:pop; in time?!''
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007500=
-//TODO Translate [Reference] 'I can see it written on your face mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007600=
-//TODO Translate [Reference] 'But no, if you bring me ^c:d03e37;candy^c:pop;, I'll trade it for ^c:d03e37;Magic Water^c:pop;!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007700=
-//TODO Translate [Reference] 'Then you can grow ^c:d03e37;pumpkins^c:pop; in no time mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007800=
-//TODO Translate [Reference] 'Once you've proven you can grow ^c:d03e37;pumpkins^c:pop;... mmya... say around five of them...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10007900=
-//TODO Translate [Reference] 'I'll teach you how to ^c:d03e37;carve^c:pop; them into ^c:d03e37;spooky lanterns^c:pop;!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008000=
-//TODO Translate [Reference] 'I can't really help you with ^c:d03e37;carving pumpkins^c:pop; yet mya...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008100=
-//TODO Translate [Reference] 'You need to bring me a few of them first!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008200=
-//TODO Translate [Reference] 'Mmkay mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008300=
-//TODO Translate [Reference] 'You can use the ^c:d03e37;Pumpkin Carving Station^c:pop; I gave you to ^c:d03e37;carve pumpkins^c:pop;!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008400=
-//TODO Translate [Reference] 'The results can be pretty spooky mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008500=
-//TODO Translate [Reference] 'Bring me one of those and I can craft you a ^c:d03e37;Pumpking head^c:pop; just like mine!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008600=
-//TODO Translate [Reference] 'Alright then!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008700=
-//TODO Translate [Reference] 'Let me just take those off you mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008800=
-//TODO Translate [Reference] 'You can use this ^c:d03e37;Pumpkin Carving Station^c:pop; to carve ^c:d03e37;pumpkins^c:pop;!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10008900=
-//TODO Translate [Reference] 'You'll notice that I only took four ^c:d03e37;pumpkins^c:pop; off you mya...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009000=
-//TODO Translate [Reference] 'Feel free to try it out on the remaining one!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009100=
-//TODO Translate [Reference] 'They'll light up and make nice spooky decorations mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009200=
-//TODO Translate [Reference] 'Okay mya...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009300=
-//TODO Translate [Reference] 'Feel free to bring them by later!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009400=
-//TODO Translate [Reference] 'Oh? What do you have for me mya?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009500=
-//TODO Translate [Reference] '3x Toffee Apple'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009600=
-//TODO Translate [Reference] '2x Candy Corn'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009700=
-//TODO Translate [Reference] 'Those look super tasty mya! Can I have them?'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009800=
-//TODO Translate [Reference] 'Sure!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10009900=
-//TODO Translate [Reference] 'Nah...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010000=
-//TODO Translate [Reference] 'Oooh, I just know everyone will love these mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010100=
-//TODO Translate [Reference] 'Here you go!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010200=
-//TODO Translate [Reference] 'They're mine!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010300=
-//TODO Translate [Reference] 'Hm? Mya...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010400=
-//TODO Translate [Reference] 'This isn't quite enough mya...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010500=
-//TODO Translate [Reference] 'It's either ^c:d03e37;3 Toffee Apples^c:pop; or ^c:d03e37;2 Candy Corn^c:pop; mya...'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010600=
-//TODO Translate [Reference] 'Alright mya. Come back anytime!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010700=
-//TODO Translate [Reference] 'Wonderful mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010800=
-//TODO Translate [Reference] 'As promised, ^c:d03e37;Magic Water^c:pop;! Make sure to use it wisely mya!'
-staxel.village.dialogue.festival.PumpkingEmissary.line:10010900=
+//[Reference] 'Myahaha!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000100=ニャハハ！
+//[Reference] 'The Pumpking Feast descends upon the mortal realm once more!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000200=今年もパンプキングの祭典がやってきた！
+//[Reference] 'Each year, the great, the wise, the magnificent Pumpking gra-'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000300=例年通り、強大にして聡明、偉大なるパンプキングラン…
+//[Reference] 'Mya? ^c:1486b0;{0-r_name}^c:pop;? I think you have the wrong person...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000400=ニャに？^c:1486b0;{0-r_name}^c:pop;？人違いだろう…
+//[Reference] 'I am none other than the ^c:1486b0;Pumpking's Emissary^c:pop;!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000500=私は他でもない^c:1486b0;パンプキングの使者^c:pop;！
+//[Reference] 'Each year, I descend to bring joy to the village!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000600=今年も皆に愉悦をもたらすべく現世に降臨したのだ！
+//[Reference] '...m...mya...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000700=…ニャ…ニャァ…
+//[Reference] 'If you use these to memorise the ^c:d03e37;recipes^c:pop;, you can create some nice treats!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000770=これらのレシピを覚えれば、素敵なお菓子が作れるであろう！
+//[Reference] 'We could really use some help getting things together for the feast...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000780=祭典を成就させるためにもこうして協力し合わねば…
+//[Reference] 'So what can I do for you today?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10000800=今日は何の用かな？
+//[Reference] 'Why are you here?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001000=あなたはどうしてここに？
+//[Reference] 'What should I do?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001100=何をすればいい？
+//[Reference] 'I have pumpkins!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001300=カボチャを持ってきたよ！
+//[Reference] 'I have some candy!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001320=何個かキャンディーを持ってきた！
+//[Reference] 'Craft me something!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001327=何か作ってみたい！
+//[Reference] 'Nothing really...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001330=何でもないです…
+//[Reference] 'Allow me to welcome you once more to the Pumpking's Feast mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001400=君をパンプキングの祭典に招待しにきたニャ！
+//[Reference] 'For only a few days each year, the barriers between our realms wane.'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001500=年に数日だけ、我々の世界の境界が弱まる時期があって…
+//[Reference] 'In this time, we emissaries travel far and wide across the land!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001600=その時、我ら使者たちは境界を越え土地という土地へと散らばるのだ！
+//[Reference] 'It's a time of celebration mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001700=その目的はお祝いをするためニャ！
+//[Reference] 'We revel in the glory of the great Pumpking's favour!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001800=私達は各地で偉大なるパンプキングの栄光を讃えるのだ！
+//[Reference] 'Participate enough and we just might make you into an honorary emissary!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10001900=働き次第によっては、君を栄えある使者として取り立てることもあり得るかも！
+//[Reference] 'You won't be able to cross between realms though...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002000=しかし世界を飛び越える能力はなさそうだね…
+//[Reference] 'That's a right reserved for us real emissaries!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002100=残念ながら本当の使者にしかこの役目は務まらないみたいだ！
+//[Reference] 'It's always fun to host this feast mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002200=この祭典を主催するのはいつも楽しいニャ！
+//[Reference] 'Some years it can be a bit more lively than others...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002300=ここ数年の中でも、より活気に溢れているかも…
+//[Reference] 'But I really do love spending time amongst mortals mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002400=こうして人間達と過ごすのは本当に大好きニャ！
+//[Reference] 'If you see a ghost wandering around...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002500=もしこの辺りをさまようお化けを見かけたら…
+//[Reference] 'Be sure to call out to them mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002600=そいつらにも声をかけるといいニャ！
+//[Reference] 'I think if you're persistent they might open up!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002700=何度も執拗に話しかければそのうち応じてくれるかもね！
+//[Reference] 'How many times do you plan to bring this up mya?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002800=何度言えば気が済むのだ？
+//[Reference] 'I've never heard of this ^c:1486b0;{0-r_name}^c:pop; person!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10002900=^c:1486b0;{0-r_name}^c:pop;という名など聞いたことがない！
+//[Reference] 'I'm just the Pumpking's Emissary!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003000=私ははただのパンプキングの使者だ！
+//[Reference] 'Was there something specific you wanted me to illuminate?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003100=何について詳しく聞きたい？
+//[Reference] 'How do I make candy?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003200=キャンディーはどう作るの？
+//[Reference] 'What if I don't have pumpkins?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003300=カボチャがないけどどうしよう？
+//[Reference] 'How do I carve pumpkins?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003400=カボチャはどうやって彫るの？
+//[Reference] 'Oooh, yes!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003500=おお、素晴らしい！
+//[Reference] 'These ^c:d03e37;pumpkins^c:pop; will be perfect mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003600=どれも見事なカボチャだニャ！
+//[Reference] 'Can I take them mya?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003630=これをくれるのかニャ？
+//[Reference] 'Here you go!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003650=どうぞ！
+//[Reference] 'Not right now...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003670=まだ渡せない…
+//[Reference] 'Mmmmya?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003700=ンンニャァァァ？
+//[Reference] 'You clearly don't have enough!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003800=どう見てもそんなに持っていないよね！
+//[Reference] 'I asked for five ^c:d03e37;pumpkins^c:pop; mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003850=^c:d03e37;カボチャ^c:pop;は5個必要ニャ！
+//[Reference] 'Can't trick me mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10003900=私にトリックは無効ニャ！
+//[Reference] 'What would you like me to craft?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10004300=何の作り方を知りたい？
+//[Reference] 'What do I need again?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10004400=何が必要になるの？
+//[Reference] 'I want the Pumpking hat!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10004500=パンプキングの帽子が欲しい！
+//[Reference] 'I want the Pumpking scythe!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10004600=パンプキングの鎌が欲しい！
+//[Reference] 'Alright mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10004700=よろしいニャ！
+//[Reference] 'If you're after the ^c:d03e37;Pumpking Emissary head piece^c:pop;...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10004800=^c:d03e37;パンプキングのかぶり物^c:pop;に興味があるなら…
+//[Reference] 'You'll need to bring me a ^c:d03e37;Jack O' Lantern^c:pop; mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10004900=^c:d03e37;ジャックランタン^c:pop;を私の所に持ってくるニャ！
+//[Reference] 'The ^c:d03e37;Pumpking Scythe^c:pop; is a little challenging!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005000=^c:d03e37;パンプキングの鎌^c:pop;はちょっと大変で…
+//[Reference] 'You need to challenge the maze in the ^c:1486b0;fairgrounds^c:pop; mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005100=^c:1486b0;催事場^c:pop;にある迷路に挑戦してもらうニャ！
+//[Reference] 'It's pretty sinister myahaha! It came with us from the Pumpking's realm!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005200=ニャハハ！そこは私達と一緒にパンプキングの世界からやってきた、世にも不気味な空間ニャ！
+//[Reference] 'Bring me the ^c:d03e37;Pumpking Vine^c:pop; you find at the centre.'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005300=中心部にある^c:d03e37;パンプキングのツル^c:pop;を取ってくるんだ。
+//[Reference] 'Oh, and a ^c:d03e37;Scythe^c:pop; too of course!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005400=あ、もちろん装飾に必要な^c:d03e37;鎌^c:pop;も用意してね！
+//[Reference] 'Then I can make you what you need mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005500=そうしたら欲しいものを作ってあげるニャ！
+//[Reference] 'Oooh, this will do nicely mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005600=おっ、これなら上手くできそうニャ！
+//[Reference] 'Just give me one moment...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005700=ちょっと貸してね…
+//[Reference] 'And there you go mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005800=はい、返すニャ！
+//[Reference] 'Remember, this doesn't make you a real Emissary of the Pumpking though!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10005900=これは形だけで、本当にパンプキングの使者になれるわけじゃないけどね！
+//[Reference] 'So don't get too full of yourself mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006000=だからはしゃぎすぎないでほしいニャ！
+//[Reference] 'Yes! These are exactly what I needed to craft one mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006010=よし！これで必要なものが揃ったニャ！
+//[Reference] 'Let's see... I think this goes here and that goes there...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006020=えっと…確かここをこうしてこっちはこうで…
+//[Reference] 'Make good use of it! Remember, it's for plants only mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006030=うまく使いこなしてね！でも刈っていいのは植物だけニャ！
+//[Reference] 'Hmm...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006100=むむぅ…
+//[Reference] 'It doesn't look like you have a ^c:d03e37;Jack O' Lantern^c:pop; for me...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006200=^c:d03e37;ジャックランタン^c:pop;を持っていないみたい…
+//[Reference] 'Come back when you do mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006300=作ったらまた来るニャ！
+//[Reference] 'I can't make you a scythe if you don't bring me a ^c:d03e37;Pumpking Vine^c:pop; mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006400=^c:d03e37;パンプキングのツル^c:pop;がないと鎌が作れないニャ！
+//[Reference] 'You'll find one at the centre of the maze in the ^c:1486b0;festival grounds^c:pop;!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006500=^c:1486b0;催事場^c:pop;で迷路の中心部を目指すんだ！
+//[Reference] 'Hmm, it looks like you have the ^c:d03e37;vine^c:pop;...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006600=うん、^c:d03e37;ツル^c:pop;はあるようだけど…
+//[Reference] 'But you need to bring me a ^c:d03e37;Scythe^c:pop; too mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006700=^c:d03e37;鎌^c:pop;も一緒じゃなきゃ作れないニャ！
+//[Reference] 'I gave you some ^c:d03e37;recipes^c:pop; earlier!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006800=前に何枚か^c:d03e37;レシピ^c:pop;を渡したはずだ！
+//[Reference] 'You can follow those to craft as many treats as you like mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10006900=それで思う存分お菓子作りに興じるがいいニャ！
+//[Reference] 'If you bring some to me, I can trade them in for something extra rare...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007000=そしてそのお菓子を私に差し出せば、いいものと交換してあげよう…
+//[Reference] 'That's right mya! ^c:d03e37;Magic Water^c:pop;!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007100=いいものとはズバリ、^c:d03e37;魔法の水^c:pop;ニャ！
+//[Reference] 'As a special treat, I have some ^c:d03e37;recipes^c:pop; to get you started with the festive spirit!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:1000720=スペシャルなもてなしとして、祭典を盛り上げるための^c:d03e37;レシピ^c:pop;を授けよう！
+//[Reference] 'You really don't see the stuff very often but the Pumpking is pretty generous!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007200=めったにお目にかかれない代物だが、パンプキングは太っ腹なのだ！
+//[Reference] 'I'll trade you one for either ^c:d03e37;3 Toffee Apples^c:pop; or ^c:d03e37;2 Candy Corn^c:pop;!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007300=1ビンにつき、^c:d03e37;りんご飴3個^c:pop;、または^c:d03e37;キャンディコーン2個^c:pop;と交換しよう！
+//[Reference] 'Hmm, let me guess mya...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007400=むむ、ちょっと待つニャ…
+//[Reference] ''Isn't it a bit late for me to grow ^c:d03e37;pumpkins^c:pop; in time?!''
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007500=「祭りの間に^c:d03e37;カボチャ^c:pop;を育てても間に合わないのでは？！」
+//[Reference] 'I can see it written on your face mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007600=顔にそう書いてあるニャ！
+//[Reference] 'But no, if you bring me ^c:d03e37;candy^c:pop;, I'll trade it for ^c:d03e37;Magic Water^c:pop;!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007700=心配無用。^c:d03e37;キャンディー^c:pop;を持ってくれば、^c:d03e37;魔法の水^c:pop;と交換できるから！
+//[Reference] 'Then you can grow ^c:d03e37;pumpkins^c:pop; in no time mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007800=それを使えばすぐにカボチャが収穫できるニャ！
+//[Reference] 'Once you've proven you can grow ^c:d03e37;pumpkins^c:pop;... mmya... say around five of them...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10007900=^c:d03e37;カボチャ^c:pop;が収穫できたら…ンニャ…それを5個くらい用意して…
+//[Reference] 'I'll teach you how to ^c:d03e37;carve^c:pop; them into ^c:d03e37;spooky lanterns^c:pop;!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008000=その時にカボチャを^c:d03e37;不気味なランタン^c:pop;に^c:d03e37;彫る^c:pop;方法を教えよう！
+//[Reference] 'I can't really help you with ^c:d03e37;carving pumpkins^c:pop; yet mya...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008100=まだ^c:d03e37;カボチャを彫る^c:pop;方法は教えられないニャ…
+//[Reference] 'You need to bring me a few of them first!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008200=話はカボチャを提出してからね！
+//[Reference] 'Mmkay mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008300=オッケーだニャ！
+//[Reference] 'You can use the ^c:d03e37;Pumpkin Carving Station^c:pop; I gave you to ^c:d03e37;carve pumpkins^c:pop;!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008400=^c:d03e37;カボチャの彫刻ステーション^c:pop;を使って^c:d03e37;彫ったカボチャ^c:pop;を作ればいい！
+//[Reference] 'The results can be pretty spooky mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008500=怖可愛く仕上げられるニャ！
+//[Reference] 'Bring me one of those and I can craft you a ^c:d03e37;Pumpking head^c:pop; just like mine!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008600=完成品を1つくれれば、私のと同じような^c:d03e37;パンプキングの頭^c:pop;に改造してあげるよ！
+//[Reference] 'Alright then!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008700=やったー！
+//[Reference] 'Let me just take those off you mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008800=ではありがたくいただくニャ！
+//[Reference] 'You can use this ^c:d03e37;Pumpkin Carving Station^c:pop; to carve ^c:d03e37;pumpkins^c:pop;!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10008900=この^c:d03e37;カボチャの彫刻ステーション^c:pop;を使えば^c:d03e37;カボチャ^c:pop;が彫れるようになるよ！
+//[Reference] 'You'll notice that I only took four ^c:d03e37;pumpkins^c:pop; off you mya...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009000=実はさっき取った^c:d03e37;カボチャ^c:pop;は4個だけニャ…
+//[Reference] 'Feel free to try it out on the remaining one!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009100=残った1つでそれを試してみて！
+//[Reference] 'They'll light up and make nice spooky decorations mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009200=妖しくきらめく立派な装飾道具に姿を変えるであろうニャ！
+//[Reference] 'Okay mya...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009300=わかったニャ…
+//[Reference] 'Feel free to bring them by later!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009400=遠慮しないでまた持ってきてね！
+//[Reference] 'Oh? What do you have for me mya?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009500=おっ？何をくれるニャ？
+//[Reference] '3x Toffee Apple'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009600=りんご飴3個
+//[Reference] '2x Candy Corn'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009700=キャンディコーン2個
+//[Reference] 'Those look super tasty mya! Can I have them?'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009800=これはうまそうだニャ！私にくれるの？
+//[Reference] 'Sure!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10009900=もちろん！
+//[Reference] 'Nah...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010000=いやだめ…
+//[Reference] 'Oooh, I just know everyone will love these mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010100=おおーっ、みんな大好きキャンディコーンだニャ！
+//[Reference] 'Here you go!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010200=はいどうぞ！
+//[Reference] 'They're mine!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010300=これは私のだよ！
+//[Reference] 'Hm? Mya...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010400=おや？ニャァ…
+//[Reference] 'This isn't quite enough mya...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010500=お菓子が足りないニャ…
+//[Reference] 'It's either ^c:d03e37;3 Toffee Apples^c:pop; or ^c:d03e37;2 Candy Corn^c:pop; mya...'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010600=^c:d03e37;りんご飴なら3個^c:pop;、^c:d03e37;キャンディコーンなら2個^c:pop;だニャ…
+//[Reference] 'Alright mya. Come back anytime!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010700=わかったニャ。また来てね！
+//[Reference] 'Wonderful mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010800=ワンダフルだニャ！
+//[Reference] 'As promised, ^c:d03e37;Magic Water^c:pop;! Make sure to use it wisely mya!'
+staxel.village.dialogue.festival.PumpkingEmissary.line:10010900=これが約束の^c:d03e37;魔法の水^c:pop;だよ！よく考えて使うニャ！
