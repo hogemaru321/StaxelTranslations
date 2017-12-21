@@ -1,14 +1,14 @@
 language.code=ja-JP
 language=日本語
 //TODO Translate [Reference] 'If it seems like there aren't many people around...'
-staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000100=
+staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000100=住民の姿が見られぬと言うのなら…
 //TODO Translate [Reference] 'It's probably because they all went to participate in the Snowdust Faire!'
-staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000200=
+staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000200=皆きっと雪まつりに参加しておるからじゃ！
 //TODO Translate [Reference] 'The main event is over in the ^c:1486b0;festival square^c:pop;.'
-staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000300=
+staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000300=祭りは^c:1486b0;催事場^c:pop;で行っておる。
 //TODO Translate [Reference] 'But I wouldn't mind if you wanted to spend a bit of time with me either!'
-staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000400=
+staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000400=じゃがここに居たいと言うなら、私は一向に構わないのじゃ！
 //TODO Translate [Reference] 'If you're looking for the Snowdust Faire, it's over in the ^c:1486b0;festival square^c:pop;!'
-staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000500=
+staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000500=雪まつりなら^c:1486b0;催事場^c:pop;に行けばいいのじゃ！
 //TODO Translate [Reference] 'Otherwise, you can spend a bit of time with me if you want!'
-staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000600=
+staxel.village.dialogue.festival.SnowdustFaireSpokesperson.line:10000600=それともここで私とくつろいでいてもいいのじゃぞ！

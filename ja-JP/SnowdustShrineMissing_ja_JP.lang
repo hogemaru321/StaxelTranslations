@@ -1,8 +1,8 @@
 language.code=ja-JP
 language=日本語
 //TODO Translate [Reference] 'T'would seem some local has defiled our ^c:1486b0;shrine^c:pop;...'
-staxel.village.dialogue.job.festival.SnowdustShrineMissing.line:10000100=
+staxel.village.dialogue.job.festival.SnowdustShrineMissing.line:10000100=村の者が私達の^c:1486b0;神社^c:pop;にイタズラをしたようじゃな…
 //TODO Translate [Reference] 'Would that they might step forwards and repair the damage...'
-staxel.village.dialogue.job.festival.SnowdustShrineMissing.line:10000200=
+staxel.village.dialogue.job.festival.SnowdustShrineMissing.line:10000200=彼奴らが自主的に修理をしてくれればよいが…
 //TODO Translate [Reference] 'Then perhaps the faire might continue...'
-staxel.village.dialogue.job.festival.SnowdustShrineMissing.line:10000300=
+staxel.village.dialogue.job.festival.SnowdustShrineMissing.line:10000300=そうすれば祭りも再開できると思うんじゃが…

@@ -688,10 +688,10 @@ staxel.accessories.fullBodyOutfits.villager.Eris.description=
 staxel.accessories.fullBodyOutfits.villager.Eris.name=エリス
 staxel.accessories.fullBodyOutfits.villager.festival.Ami.description=
 //TODO Translate [Reference] 'Ami'
-staxel.accessories.fullBodyOutfits.villager.festival.Ami.name=
+staxel.accessories.fullBodyOutfits.villager.festival.Ami.name=アミ
 staxel.accessories.fullBodyOutfits.villager.festival.Caren.description=
 //TODO Translate [Reference] 'Caren'
-staxel.accessories.fullBodyOutfits.villager.festival.Caren.name=
+staxel.accessories.fullBodyOutfits.villager.festival.Caren.name=カレン
 staxel.accessories.fullBodyOutfits.villager.festival.DefinitelyNotRiah.description=
 //TODO Translate [Reference] 'Definitely Not Riah'
 staxel.accessories.fullBodyOutfits.villager.festival.DefinitelyNotRiah.name=
@@ -1838,7 +1838,7 @@ staxel.item.gatherable.GoldenDragonfly.description=
 staxel.item.gatherable.GoldenDragonfly.name=
 staxel.item.gatherable.GoldenKoi.description=
 //TODO Translate [Reference] 'Golden Snowdust Koi'
-staxel.item.gatherable.GoldenKoi.name=
+staxel.item.gatherable.GoldenKoi.name=黄金のコイ
 staxel.item.gatherable.Goldfish.description=
 //[Reference] 'Goldfish'
 staxel.item.gatherable.Goldfish.name=金魚
@@ -1850,7 +1850,7 @@ staxel.item.gatherable.GreenDragonfly.description=
 staxel.item.gatherable.GreenDragonfly.name=
 staxel.item.gatherable.Koi.description=
 //TODO Translate [Reference] 'Snowdust Koi'
-staxel.item.gatherable.Koi.name=
+staxel.item.gatherable.Koi.name=雪まつりのコイ
 staxel.item.gatherable.Ladybug.description=
 //[Reference] 'Ladybug'
 staxel.item.gatherable.Ladybug.name=テントウムシ
@@ -1967,7 +1967,7 @@ staxel.item.tool.PumpkingScythe.description=
 staxel.item.tool.PumpkingScythe.name=
 staxel.item.tool.TaikoHammer.description=
 //TODO Translate [Reference] 'Taiko Hammer'
-staxel.item.tool.TaikoHammer.name=
+staxel.item.tool.TaikoHammer.name=太鼓ハンマー
 //[Reference] 'Brick'
 staxel.merchant.Brick.name=レンガ
 //[Reference] 'Buttons'
@@ -2404,7 +2404,7 @@ staxel.tile.rock.Rock.5.Winter.description=
 staxel.tile.rock.Rock.5.Winter.name=冬
 staxel.tile.water.IceWater.description=
 //TODO Translate [Reference] 'Ice Water'
-staxel.tile.water.IceWater.name=
+staxel.tile.water.IceWater.name=氷水
 staxel.tileObject.airship.RopeFenceCross.description=
 //[Reference] 'Rope Fence'
 staxel.tileObject.airship.RopeFenceCross.name=ロープフェンス
@@ -2610,7 +2610,7 @@ staxel.tileObject.festival.feymasquerade.SmallRoseTable.description=
 staxel.tileObject.festival.feymasquerade.SmallRoseTable.name=
 staxel.tileObject.festival.NekoShrine.description=
 //TODO Translate [Reference] 'Small Shrine'
-staxel.tileObject.festival.NekoShrine.name=
+staxel.tileObject.festival.NekoShrine.name=小さい神社
 staxel.tileObject.festival.PumpkinCarvingStation.description=
 //TODO Translate [Reference] 'Pumpkin Carving Station'
 staxel.tileObject.festival.PumpkinCarvingStation.name=
@@ -2628,19 +2628,19 @@ staxel.tileObject.festival.PumpkingVine.description=
 staxel.tileObject.festival.PumpkingVine.name=
 staxel.tileObject.festival.SnowdustFaireBannerLeft.description=
 //TODO Translate [Reference] 'Snowdust Faire Banner Left'
-staxel.tileObject.festival.SnowdustFaireBannerLeft.name=
+staxel.tileObject.festival.SnowdustFaireBannerLeft.name=雪まつりの飾り紐 左
 staxel.tileObject.festival.SnowdustFaireBannerRight.description=
 //TODO Translate [Reference] 'Snowdust Faire Banner Right'
-staxel.tileObject.festival.SnowdustFaireBannerRight.name=
+staxel.tileObject.festival.SnowdustFaireBannerRight.name=雪まつりの飾り紐 右
 staxel.tileObject.festival.SnowdustFaireFountain.description=
 //TODO Translate [Reference] 'Snowdust Faire Fountain'
-staxel.tileObject.festival.SnowdustFaireFountain.name=
+staxel.tileObject.festival.SnowdustFaireFountain.name=雪まつりの噴水
 staxel.tileObject.festival.SnowdustFaireRedLantern.description=
 //TODO Translate [Reference] 'Red Lantern'
-staxel.tileObject.festival.SnowdustFaireRedLantern.name=
+staxel.tileObject.festival.SnowdustFaireRedLantern.name=赤い提灯
 staxel.tileObject.festival.SnowdustFaireYellowLantern.description=
 //TODO Translate [Reference] 'Yellow Lantern'
-staxel.tileObject.festival.SnowdustFaireYellowLantern.name=
+staxel.tileObject.festival.SnowdustFaireYellowLantern.name=黄色い提灯
 staxel.tileObject.fishing.BaitBox.description=
 //[Reference] 'Baitbox'
 staxel.tileObject.fishing.BaitBox.name=釣りエサ入れ
@@ -3008,7 +3008,7 @@ staxel.tileObject.totems.festival.feyMasquerade.FeyThroneRoom.description=
 staxel.tileObject.totems.festival.feyMasquerade.FeyThroneRoom.name=
 staxel.tileObject.totems.festival.SnowdustShrine.description=
 //TODO Translate [Reference] 'Snowdust Shrine'
-staxel.tileObject.totems.festival.SnowdustShrine.name=
+staxel.tileObject.totems.festival.SnowdustShrine.name=雪まつりの神社
 staxel.tileObject.totems.RiahMailbox.description=
 
 //[Reference] 'Riah's Postbox'
@@ -3080,7 +3080,7 @@ staxel.totem.festival.feymasquerade.FeyRoom208=
 //TODO Translate [Reference] 'Fey Throne Room'
 staxel.totem.festival.feymasquerade.FeyThroneRoom=
 //TODO Translate [Reference] 'Snowdust Shrine'
-staxel.totem.festival.SnowdustShrine=
+staxel.totem.festival.SnowdustShrine=雪まつりの神社
 //TODO Translate [Reference] 'Furnishing requirements complete!'
 staxel.totem.FurnitureComplete=
 //[Reference] 'Jamie's Home'
@@ -3193,9 +3193,9 @@ staxel.village.villagerLeftTown={0-name}が村を離れました。
 //[Reference] 'Aliza'
 staxel.villager.Aliza.name=アリザ
 //TODO Translate [Reference] 'Ami'
-staxel.villager.Ami.name=
+staxel.villager.Ami.name=アミ
 //TODO Translate [Reference] 'Caren'
-staxel.villager.Caren.name=
+staxel.villager.Caren.name=カレン
 //[Reference] 'Cecile'
 staxel.villager.Cecile.name=セシル
 //TODO Translate [Reference] 'Riah?!?'
